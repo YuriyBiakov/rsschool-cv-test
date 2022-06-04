@@ -1,9 +1,10 @@
 ![MyPhoto](./MyPhotoCompressed.jpg)
 
-# Yuriy Bikov
+# Yuriy Biakov
 
-## Contacts 
-- St.Petersburg, Russia
+## Contacts
+ 
+- St. Petersburg, Russia
 - gbyackov@gmail.com
 - +7 900 625 05 55
 - discord: Yuriy Biakov (@YuriyBiakov) 
@@ -20,6 +21,7 @@ In my new field, I would like to work in a friendly positive environment, surrou
 As a lawyer, I have logical thinking, skills in working with large volumes of documentation, teamwork, and public speaking.
 
 I am a confident computer user, interested in information technology.
+
 ## Skills
 
 - Java Basics (JavaRush 32lvl)
@@ -28,6 +30,7 @@ I am a confident computer user, interested in information technology.
 - VS Code, IntelliJ IDEA
 
 ## Code Example
+
 ```
 while (alive) {
     experience++;
@@ -40,12 +43,13 @@ while (alive) {
 
 
 ## Education
-- St.Petersburg Marine Technical University
+
+- St. Petersburg Marine Technical University
+
     -  2003 - 2008 
     - Lawyer - Master degree  
 
 
 ## Language Skills
+
 - English: Pre-Intermediate (A2+)
-
-
