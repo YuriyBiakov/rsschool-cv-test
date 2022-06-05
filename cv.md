@@ -47,7 +47,7 @@ while (alive) {
 - St. Petersburg Marine Technical University
 
     -  2003 - 2008 
-    - Lawyer - Master degree  
+    - Lawyer - Master`s degree  
 
 
 ## Language Skills
