@@ -56,3 +56,9 @@ body {
     line-height: 50px;
     list-style: none;
   }
+
+  .education-ul {
+    display: flex;
+    gap: 15px;
+    flex-direction: column;
+  }
