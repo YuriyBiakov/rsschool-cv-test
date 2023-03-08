@@ -39,7 +39,7 @@ while (alive) {
 
 ## Experience
 
-[Training task **Plants** (RS School “JavaScript/Front-End Stage 0”)](https://yuriybiakov.github.io/rsschool-cv/cv)
+[Training task **Plants** (RS School “JavaScript/Front-End Stage 0”)](https://rolling-scopes-school.github.io/yuriybiakov-JSFEPRESCHOOL2022Q4/plants/)
 
 ## Education
 
