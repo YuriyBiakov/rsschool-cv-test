@@ -39,15 +39,18 @@ while (alive) {
 
 ## Experience
 
-[Training task **CV#1. Markdown & Git** (RS School “JavaScript/Front-End Stage 0”)](https://yuriybiakov.github.io/rsschool-cv/cv)
-
+[Training task **Plants** (RS School “JavaScript/Front-End Stage 0”)](https://yuriybiakov.github.io/rsschool-cv/cv)
 
 ## Education
 
 - St. Petersburg Marine Technical University
 
     -  2003 - 2008 
-    - Lawyer - Master`s degree  
+    - Lawyer - Master`s degree
+
+- Rolling Scopes School
+    - 2022 - 2023
+    - JavaScript/Front-end. Stage 0
 
 
 ## Language Skills
